@@ -1,8 +1,6 @@
-![banner](https://i.imgur.com/f6OcdtQ.png)
-
 <p>
   <h2 align="center">
-  機器學習 Machine Learning 2022 Spring by National Taiwan University<br>
+  機器學習 Machine Learning 2022 Spring by National Taiwan University(ONGOING)<br>
   </h2>
 </p>
 
